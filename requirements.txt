@@ -4,3 +4,4 @@ seaborn
 ipykernel
 matplotlib
 scikit-learn
+statsmodels
