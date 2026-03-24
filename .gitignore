@@ -7,3 +7,6 @@ __pycache__/
 
 # Virtual environment
 venv/
+
+# csv file
+Machine_Learning/clustering_&_time_series_dataset/NYC_taxi_fare_data.csv 
